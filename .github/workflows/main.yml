@@ -1,2 +1,2 @@
-name: A workflow for my Hello world file
+name: A workflow for my Hello world
 on: push
